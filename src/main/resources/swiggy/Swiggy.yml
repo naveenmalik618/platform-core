@@ -12,7 +12,7 @@ paths:
   /users:
     get:
       tags:
-        - swiggy
+        - swiggy #required to create name as SwiggyApi in place of DefaultApi
       summary: Get all users
       operationId: getAllUsers
       responses:
