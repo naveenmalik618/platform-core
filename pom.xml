@@ -5,7 +5,7 @@
 
     <groupId>com.malik</groupId>
     <artifactId>platform-core</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>platform-core</name>
     <description>Application for common functionalities</description>
     <packaging>jar</packaging>
